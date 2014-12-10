@@ -1,0 +1,133 @@
+c:\users\javax7\documents\visual studio 2013\Projects\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe.config
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.pdb
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.csprojResolveAssemblyReference.cache
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.LogIn.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Properties.Resources.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.csproj.GenerateResource.Cache
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.exe
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.pdb
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Bienvenido.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.FormMenu.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Cerrando.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe.manifest
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.application
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.exe.manifest
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.application
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ProductosM.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ClientesM.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.VentasM.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.mdb
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Productos.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ProductosT.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.EmpleadosM.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Ventas.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.VentasT.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Empleados.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.EmpleadosT.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Clientes.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ClientesT.resources
+D:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe.config
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.exe
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.pdb
+D:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.mdb
+D:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe.manifest
+D:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.application
+D:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe
+D:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.pdb
+D:\GuitarCentral\GuitarCentral\bin\Debug\mscorlib.dll
+D:\GuitarCentral\GuitarCentral\bin\Debug\System.Data.dll
+D:\GuitarCentral\GuitarCentral\bin\Debug\System.Transactions.dll
+D:\GuitarCentral\GuitarCentral\bin\Debug\System.EnterpriseServices.dll
+D:\GuitarCentral\GuitarCentral\bin\Debug\System.Web.dll
+D:\GuitarCentral\GuitarCentral\bin\Debug\System.Data.OracleClient.dll
+D:\GuitarCentral\GuitarCentral\bin\Debug\es\mscorlib.resources.dll
+D:\GuitarCentral\GuitarCentral\bin\Debug\normidna.nlp
+D:\GuitarCentral\GuitarCentral\bin\Debug\normnfc.nlp
+D:\GuitarCentral\GuitarCentral\bin\Debug\normnfd.nlp
+D:\GuitarCentral\GuitarCentral\bin\Debug\normnfkc.nlp
+D:\GuitarCentral\GuitarCentral\bin\Debug\normnfkd.nlp
+D:\GuitarCentral\GuitarCentral\bin\Debug\System.EnterpriseServices.Wrapper.dll
+D:\GuitarCentral\GuitarCentral\obj\Debug\ResolveAssemblyReference.cache
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Bienvenido.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Cerrando.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Clientes.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ClientesM.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ClientesT.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Empleados.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.EmpleadosM.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.EmpleadosT.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.LogIn.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.FormMenu.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Productos.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ProductosM.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ProductosT.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Properties.Resources.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Ventas.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.VentasM.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.VentasT.resources
+D:\GuitarCentral\GuitarCentral\obj\Debug\GenerateResource.read.1.tlog
+D:\GuitarCentral\GuitarCentral\obj\Debug\GenerateResource.write.1.tlog
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.exe.manifest
+D:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.application
+E:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe.config
+E:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.exe
+E:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.pdb
+H:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe.config
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.exe
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.pdb
+H:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.mdb
+H:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe.manifest
+H:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.application
+H:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.exe
+H:\GuitarCentral\GuitarCentral\bin\Debug\GuitarCentral.pdb
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.csprojResolveAssemblyReference.cache
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Bienvenido.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Cerrando.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Clientes.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ClientesM.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ClientesT.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Empleados.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.EmpleadosM.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.EmpleadosT.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.LogIn.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.FormMenu.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Productos.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ProductosM.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.ProductosT.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Properties.Resources.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.Ventas.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.VentasM.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.VentasT.resources
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.csproj.GenerateResource.Cache
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.exe.manifest
+H:\GuitarCentral\GuitarCentral\obj\Debug\GuitarCentral.application
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\bin\Debug\GuitarCentral.exe.config
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.exe
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.pdb
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\bin\Debug\GuitarCentral.mdb
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\bin\Debug\GuitarCentral.exe.manifest
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\bin\Debug\GuitarCentral.application
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\bin\Debug\GuitarCentral.exe
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\bin\Debug\GuitarCentral.pdb
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.csprojResolveAssemblyReference.cache
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.Bienvenido.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.Cerrando.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.Clientes.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.ClientesM.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.ClientesT.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.Empleados.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.EmpleadosM.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.EmpleadosT.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.LogIn.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.FormMenu.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.Productos.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.ProductosM.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.ProductosT.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.Properties.Resources.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.Ventas.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.VentasM.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.VentasT.resources
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.csproj.GenerateResource.Cache
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.exe.manifest
+C:\Users\JAVAX7\Documents\Visual Studio 2013\Projects\GuitarCentral2\GuitarCentral\obj\Debug\GuitarCentral.application

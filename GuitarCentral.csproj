@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3762D2BF-D997-444C-AD1F-CB675A0E6EDD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GuitarCentral</RootNamespace>
+    <AssemblyName>GuitarCentral</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\JAVAX7\Desktop\Nueva carpeta %283%29\GuitarCentral\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Gc.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4D5CECEF73EF538DEB1B7365566751E7A346A97C</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>GuitarCentral_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bienvenido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenido.Designer.cs">
+      <DependentUpon>Bienvenido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cerrando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cerrando.Designer.cs">
+      <DependentUpon>Cerrando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientesM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientesM.Designer.cs">
+      <DependentUpon>ClientesM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientesT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientesT.Designer.cs">
+      <DependentUpon>ClientesT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados.Designer.cs">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpleadosM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpleadosM.Designer.cs">
+      <DependentUpon>EmpleadosM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpleadosT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpleadosT.Designer.cs">
+      <DependentUpon>EmpleadosT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuitarCentralDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GuitarCentralDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos.Designer.cs">
+      <DependentUpon>Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductosM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductosM.Designer.cs">
+      <DependentUpon>ProductosM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductosT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductosT.Designer.cs">
+      <DependentUpon>ProductosT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas.Designer.cs">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentasM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentasM.Designer.cs">
+      <DependentUpon>VentasM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentasT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentasT.Designer.cs">
+      <DependentUpon>VentasT.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bienvenido.resx">
+      <DependentUpon>Bienvenido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cerrando.resx">
+      <DependentUpon>Cerrando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientesM.resx">
+      <DependentUpon>ClientesM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientesT.resx">
+      <DependentUpon>ClientesT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados.resx">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpleadosM.resx">
+      <DependentUpon>EmpleadosM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpleadosT.resx">
+      <DependentUpon>EmpleadosT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos.resx">
+      <DependentUpon>Productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductosM.resx">
+      <DependentUpon>ProductosM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductosT.resx">
+      <DependentUpon>ProductosT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Ventas.resx">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentasM.resx">
+      <DependentUpon>VentasM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentasT.resx">
+      <DependentUpon>VentasT.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="GuitarCentralDataSet.xsc">
+      <DependentUpon>GuitarCentralDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GuitarCentralDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GuitarCentralDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GuitarCentralDataSet.xss">
+      <DependentUpon>GuitarCentralDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GuitarCentral_ClaveTemporal.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GuitarCenter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loadingbar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Gc.ico" />
+    <Content Include="GuitarCentral.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\minimize1.png" />
+    <None Include="Resources\exit1.png" />
+    <None Include="Resources\first.png" />
+    <None Include="Resources\previous.png" />
+    <None Include="Resources\last.png" />
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
